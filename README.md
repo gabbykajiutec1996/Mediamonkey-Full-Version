@@ -244,4 +244,4 @@ This repository serves as the official landing page for MediaMonkey. The softwar
 **Get the most recent version of MediaMonkey today!**
 
 ---
-**Last updated:** 2026-09-17 13:59:50 UTC
+**Last updated:** 2026-09-17 18:03:57 UTC
